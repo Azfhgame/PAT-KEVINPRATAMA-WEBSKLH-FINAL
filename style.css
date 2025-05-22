@@ -93,7 +93,7 @@ footer {
 
     .prev, .next {
       background-color: rgba(0,0,0,0.5);
-      color: white;
+      color: rgb(10, 9, 9);
       padding: 10px;
       cursor: pointer;
       border: none;
